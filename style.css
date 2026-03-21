@@ -33,7 +33,6 @@ h1 {
 }
 
 hr {
-  max-width: 50%;
   min-width: 500px;
   border: none;
   border-top: 3px double #2b0f54;
@@ -53,7 +52,7 @@ ul, p {
 li {
   padding-top: 5px;
   padding-bottom: 5px;
-  list-type: none;
+  list-style: none;
 }
 
 a {
