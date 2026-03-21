@@ -5,10 +5,6 @@
   flex-direction: column;
 }
 
-.content {
-  justify-content: left;
-}
-
 nav {
   display: flex;
   justify-content: center;
@@ -36,10 +32,15 @@ h1 {
   color: #2b0f54;
 }
 
-p {
+ul {
   font-size: 18px;
   color: #2b0f54;
-  max-width: 50%
+  max-width: 50%;
+}
+
+li {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 a {
