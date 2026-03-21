@@ -5,6 +5,10 @@
   flex-direction: column;
 }
 
+.content {
+  justify-content: left;
+}
+
 nav {
   display: flex;
   justify-content: center;
