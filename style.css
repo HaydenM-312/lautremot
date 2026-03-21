@@ -70,3 +70,9 @@ a.navlink {
   padding-left: 10px;
   padding-right: 10px;
 }
+
+a.disabled {
+  color: #ab1f65;
+  pointer-events: none;
+  cursor: default;
+}
