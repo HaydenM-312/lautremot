@@ -39,15 +39,18 @@ p {
 }
 
 a {
-  font-size: 18px;
   color: #ff4f69;
   text-decoration-line: none;
-  padding-left: 10px;
-  padding-right: 10px;
   
   font-weight: bold;
 }
 
 a:hover {
   font-style: italic;
+}
+
+a.navlink {
+  font-size: 18px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
