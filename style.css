@@ -5,13 +5,6 @@
   flex-direction: column;
 }
 
-nav {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
-  padding-bottom: 10px;
-}
 
 .title {
   padding-top: 100px;
@@ -27,18 +20,20 @@ body {
   font-family: "Courier New", monospace;
 }
 
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  padding-bottom: 10px;
+}
+
 h1 {
   font-size: 28px;
   color: #2b0f54;
 }
 
-p {
-  font-size: 18px;
-  color: #2b0f54;
-  max-width: 50%;
-}
-
-ul {
+ul, p {
   font-size: 18px;
   color: #2b0f54;
   max-width: 50%;
@@ -52,7 +47,6 @@ li {
 a {
   color: #ff4f69;
   text-decoration-line: none;
-  
   font-weight: bold;
 }
 
