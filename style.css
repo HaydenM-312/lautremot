@@ -3,8 +3,6 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding-left: 25%;
-  padding-right: 25%;
 }
 
 .title {
@@ -41,6 +39,9 @@ hr {
 ul {
   color: #2b0f54;
   font-size: 18px;
+  max-width: 7in;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 p {
