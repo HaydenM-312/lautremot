@@ -8,7 +8,8 @@
 .title {
   padding-top: 100px;
   padding-bottom: 10px;
-  max-width:4in;
+  width:4in;
+  max-width:95%;
 }
 
 body {
