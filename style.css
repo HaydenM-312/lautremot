@@ -54,6 +54,7 @@ li {
   padding-top: 5px;
   padding-bottom: 5px;
   list-style: none;
+  text-align: justify;
 }
 
 a {
@@ -63,7 +64,7 @@ a {
 }
 
 a:hover {
-  font-style: italic;
+  color: #ab1f65;
 }
 
 a.navlink {
